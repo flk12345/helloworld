@@ -1,4 +1,5 @@
 {
   name: 'flutter',
-  description: 'test project'
+  description: 'test project',
+  key: 'ffeafeafsf'
 }
