@@ -1,6 +1,4 @@
 # helloworld
-This is a test repository.
-
-In this repository i will only learn something about github but do nothing.
+Hello everyone, my name is Kevin Fan, I come from China. This is my testing repository.
 
 My email is 554311466@qq.com. Any question please contact with me.
